@@ -80,6 +80,11 @@ header div a img {
     }
 }
 
+
+.section-gap{
+    margin-top: 7rem;
+}
+
 .half-width {
     display: flex;
     align-items: center;
