@@ -9,6 +9,7 @@ header div a img {
 }
 
 
+
 /* 
   --------------------
       nav item css
@@ -61,7 +62,6 @@ header div a img {
 
 
 
-
 /* 
 ---------------------
     main body css
@@ -80,8 +80,11 @@ header div a img {
     }
 }
 
+.get-started-text-color {
+    color: #ffc107;
+}
 
-.section-gap{
+.section-gap {
     margin-top: 7rem;
 }
 
@@ -90,7 +93,7 @@ header div a img {
     align-items: center;
 }
 
-.text-half-width{
+.text-half-width {
     width: 40%;
     margin-right: 1rem;
 }
@@ -100,25 +103,26 @@ header div a img {
 }
 
 @media only screen and (max-width: 568px) {
-    .text-half-width{
+    .text-half-width {
         width: 100%;
     }
-    .image-half-width{
+
+    .image-half-width {
         width: 100%;
     }
 }
 
-.easy-3-steps{
+.easy-3-steps {
     width: 50%;
 }
 
 @media only screen and (max-width:568px) {
-    .easy-3-steps{
+    .easy-3-steps {
         width: 70%;
     }
 }
 
-.steps-count{
+.steps-count {
     height: 4rem;
     width: 4rem;
     background-color: #5089fd;
@@ -129,61 +133,13 @@ header div a img {
     margin-right: auto;
 }
 
-.link-color-hover:hover{
+.link-color-hover:hover {
     color: #ffc107;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.get-started-text-color {
-    color: #ffc107;
-}
-
-.video-text-hover:hover {
-    font-weight: 700;
-}
-
-@media only screen and (max-width: 568px) {
-    .video-section {
-        width: 100%;
-    }
-}
-
-.business-Ethics-section {
-    display: flex;
-    text-align: center;
-}
-
-.two-part-gif {
-    width: 50%;
-}
-
-@media only screen and (max-width: 568px) {
-    .two-part-gif {
-        width: 75%;
-    }
-
-    .business-Ethics-section {
-        display: grid;
-    }
-
-    .gif-item {
-        margin-left: 3rem;
-        margin-top: 2rem;
-    }
+.blog-details {
+    background-color: #F2F6FF;
+    border-radius: 10px;
 }
 
 
