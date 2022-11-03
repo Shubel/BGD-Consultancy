@@ -92,6 +92,10 @@ header div a img {
     margin-right: 1rem;
 }
 
+.image-rounded{
+    border-radius: 10px;
+}
+
 .half-width-image{
     width: 55%;
 }

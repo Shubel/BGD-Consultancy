@@ -80,6 +80,10 @@ header div a img {
   }
 }
 
+.image-rounded{
+  border-radius: 10px;
+}
+
 .half-width {
   display: flex;
   align-items: center;
