@@ -168,41 +168,12 @@ header div a img {
     margin-top: 7rem;
 }
 
-
-
-.video-text-hover:hover {
-    font-weight: 700;
-}
-
 @media only screen and (max-width: 568px) {
     .video-section {
         width: 100%;
     }
 }
 
-.business-Ethics-section {
-    display: flex;
-    text-align: center;
-}
-
-.two-part-gif {
-    width: 50%;
-}
-
-@media only screen and (max-width: 568px) {
-    .two-part-gif {
-        width: 75%;
-    }
-
-    .business-Ethics-section {
-        display: grid;
-    }
-
-    .gif-item {
-        margin-left: 3rem;
-        margin-top: 2rem;
-    }
-}
 
 
 
