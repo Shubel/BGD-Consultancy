@@ -122,7 +122,7 @@ header div a img {
     margin-top: 7rem;
 }
 
-.card-decoration{
+.card-decoration {
     box-shadow: 15px 15px 30px lightgray;
     border-radius: 10px;
 }
@@ -153,18 +153,18 @@ header div a img {
 .blog-details {
     border-radius: 10px;
     box-shadow: 5px 5px 20px lightgrey;
-    text-align:center;
+    text-align: center;
 }
 
-.blog-details:hover{
+.blog-details:hover {
     box-shadow: 15px 15px 20px lightgrey;
-    color:#ffc107;
+    color: #ffc107;
 }
 
 .steps-count {
     display: flex;
-    height: 4rem;
-    width: 4rem;
+    height: 3rem;
+    width: 3rem;
     background-color: #5089fd;
     color: #fff;
     border-radius: 50%;
@@ -172,43 +172,6 @@ header div a img {
     margin-right: auto;
 }
 
-
-
-
-
-.video-text-hover:hover {
-    font-weight: 700;
-}
-
-@media only screen and (max-width: 568px) {
-    .video-section {
-        width: 100%;
-    }
-}
-
-.business-Ethics-section {
-    display: flex;
-    text-align: center;
-}
-
-.two-part-gif {
-    width: 50%;
-}
-
-@media only screen and (max-width: 568px) {
-    .two-part-gif {
-        width: 75%;
-    }
-
-    .business-Ethics-section {
-        display: grid;
-    }
-
-    .gif-item {
-        margin-left: 3rem;
-        margin-top: 2rem;
-    }
-}
 
 
 
