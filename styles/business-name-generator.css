@@ -150,6 +150,27 @@ header div a img {
     background-image: linear-gradient(45deg, #FBDA61 0%, #FF5ACD 100%);
 }
 
+.blog-details {
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px lightgrey;
+    text-align:center;
+}
+
+.blog-details:hover{
+    box-shadow: 15px 15px 20px lightgrey;
+    color:#ffc107;
+}
+
+.steps-count {
+    display: flex;
+    height: 4rem;
+    width: 4rem;
+    background-color: #5089fd;
+    color: #fff;
+    border-radius: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
 
 
 
